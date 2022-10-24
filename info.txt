@@ -2,7 +2,9 @@ https://res.uwaow.com
 
 res = resources
 
-[+] css
-[+] favicon
-[+] font
-[+] logo
+[+] /css/
+[+] /favicon/
+[+] /font/
+[+] /logo/
+[+] browserconfig.xml
+[+] manifest.json
