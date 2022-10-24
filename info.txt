@@ -1,0 +1,8 @@
+https://res.uwaow.com
+
+res = resources
+
+[+] css
+[+] favicon
+[+] font
+[+] logo
