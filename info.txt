@@ -6,5 +6,6 @@ res = resources
 [+] /favicon/
 [+] /font/
 [+] /logo/
-[+] browserconfig.xml
-[+] manifest.json
+
+[+] /favicon/browserconfig.xml
+[+] /favicon/manifest.json
