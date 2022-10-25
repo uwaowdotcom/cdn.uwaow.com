@@ -1,0 +1,15 @@
+Common File Name For CSS :
+
+main.css
+style.css
+styles.css
+
+It could be change to any file name.
+Just make sure meta tag inside HTML file also change to existing css file name.
+
+Alternative CSS File Name :
+
+head.css
+header.css
+styler.css
+etc
